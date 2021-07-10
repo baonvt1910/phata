@@ -3,21 +3,10 @@
 const mongoose = require("mongoose");
 
 
-/// Thông tin Database Collection / Tables
-/*
-const userName = "dbphathoang";
-const userPassword = "0909246357a";
+ 
 
-const dbName = "ATN_ShopToy";
-
-const url = "mongodb+srv://" +
-    userName + ":" + userPassword +
-    "@cluster0.r21sv.mongodb.net/" + dbName +
-    "?retryWrites=true&w=majority";
-*/
-
-const userName = "bao2002";
-const userPassword = "newpasss";
+const userName = " ";
+const userPassword = " ";
 
 const dbName = "ATN_shop";
  
